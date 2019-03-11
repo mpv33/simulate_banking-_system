@@ -2,7 +2,7 @@
 simulate banking system precess  like as work ::::::;
 
 >>> 
-========== RESTART: C:\Users\Beni computer\Downloads\banking (2).py ==========
+==========simulate Banking system project  output  ==========
 
 Enter 1 to create a new account
 Enter 2 to access an existing account
@@ -75,3 +75,4 @@ Enter 1 to create a new account
 Enter 2 to access an existing account
 Enter 3 to exit
  
+3
