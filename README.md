@@ -36,7 +36,7 @@ Authentication Successful
 
 Enter 1 to withdraw
 Enter 2 to deposit
-Enter 3 to display avialable balance
+Enter 3 to display  avialable balance
 Enter 4 to go back to the previous menu
 1
 
